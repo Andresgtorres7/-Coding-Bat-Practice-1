@@ -1,0 +1,8 @@
+public boolean parrotTrouble(boolean talking, int hour) {
+  
+    return(talking && (hour<7 || hour > 20));
+    
+  
+}
+
+// This program returns true if number is between 7 and 20 
